@@ -1,6 +1,6 @@
 # Microservices for Email Sending with RabbitMQ (Spring Boot)
 
-Este projeto é composto por dois microserviços criados para estudar **Spring Boot**, **RabbitMQ** e **comunicação entre microserviços**. 
+Este projeto é composto por dois microserviços criados para estudar **Spring Boot**, **RabbitMQ** e **comunicação entre microserviços**. Projeto utilizado para estudar a integração com RabbitMQ.
 
 ## 🚀 Objetivo do Projeto
 Demonstrar como dois microserviços podem se comunicar de forma assíncrona utilizando o **RabbitMQ** para enviar e-mails. O projeto simula um fluxo em que:
@@ -49,4 +49,6 @@ microservice_envio_email_springboot_rabbit/
 5.	Os dois microserviços devem estar em execução para que a comunicação via RabbitMQ funcione corretamente.
 
 6.	Acesse os endpoints expostos pelos microserviços para testar a aplicação.
+
+7.	Creditos ao canal Michelli Brito (https://www.youtube.com/watch?v=ZnECi2gatMs)
 
